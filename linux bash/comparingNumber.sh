@@ -1,4 +1,4 @@
-
+# if else conditional
 read x;
 read y;
 if [ $x -lt $y ]
