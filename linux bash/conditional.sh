@@ -1,3 +1,4 @@
+# writing conditional
 read var
 
 if [[ "$var" == 'Y' || "$var" == 'y' ]]; then 
