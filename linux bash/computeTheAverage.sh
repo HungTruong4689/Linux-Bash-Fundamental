@@ -1,3 +1,4 @@
+#for loop
 sum =0
 read N
 
